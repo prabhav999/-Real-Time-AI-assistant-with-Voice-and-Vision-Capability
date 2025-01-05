@@ -84,16 +84,16 @@ Voice: "I see a park with trees, people walking, and a playground."
 Vision: Highlights specific objects like benches, paths, or signs if additional analysis is needed.
 
 ## Security
--Do not expose your .env file or API keys in public repositories.
--Use environment variables for production deployment.
+- Do not expose your .env file or API keys in public repositories.
+- Use environment variables for production deployment.
 - Open source models can also be used for deployment. 
 
 ## Installing dependencies
  creating a virtual environment is recommended, update pip, and install the required packages:
--$ python3 -m venv .venv.
--$ source .venv/bin/activate.
--$ pip install -U pip.
--$ pip install -r requirements.txt.
+- $ python3 -m venv .venv
+- $ source .venv/bin/activate
+- $ pip install -U pip
+- $ pip install -r requirements.txt
 
 Save the requirements.txt file in the root of your main project directory and install the required dependencies!! 
 
