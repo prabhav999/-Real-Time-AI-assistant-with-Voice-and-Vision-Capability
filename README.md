@@ -84,8 +84,8 @@ Voice: "I see a park with trees, people walking, and a playground."
 Vision: Highlights specific objects like benches, paths, or signs if additional analysis is needed.
 
 ## Security
--**Do not expose your .env file or API keys in public repositories.
--**Use environment variables for production deployment.
+-Do not expose your .env file or API keys in public repositories.
+-Use environment variables for production deployment.
 - Open source models can also be used for deployment. 
 
 
