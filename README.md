@@ -90,10 +90,10 @@ Vision: Highlights specific objects like benches, paths, or signs if additional 
 
 ## Installing dependencies
  creating a virtual environment is recommended, update pip, and install the required packages:
--$ python3 -m venv .venv
--$ source .venv/bin/activate
--$ pip install -U pip
--$ pip install -r requirements.txt
+-$ python3 -m venv .venv.
+-$ source .venv/bin/activate.
+-$ pip install -U pip.
+-$ pip install -r requirements.txt.
 
 Save the requirements.txt file in the root of your main project directory and install the required dependencies!! 
 
